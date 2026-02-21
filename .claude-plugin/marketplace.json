@@ -4,5 +4,20 @@
     "name": "Seth Webster",
     "email": "seth@sethwebster.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "rock-mcp",
+      "source": {
+        "source": "github",
+        "repo": "sethwebster/rock-mcp"
+      },
+      "description": "Documentation crawler — crawl any docs URL and search it instantly",
+      "author": {
+        "name": "Seth Webster"
+      },
+      "homepage": "https://github.com/sethwebster/rock-mcp",
+      "license": "MIT",
+      "keywords": ["docs", "crawler", "search", "mcp"]
+    }
+  ]
 }

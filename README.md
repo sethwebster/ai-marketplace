@@ -26,6 +26,7 @@ A Claude Code plugin marketplace.
 
 | Plugin | Description |
 |--------|-------------|
+| [rock-mcp](https://github.com/sethwebster/rock-mcp) | Documentation crawler — crawl any docs URL and search it instantly |
 
 ## Add a plugin
 
