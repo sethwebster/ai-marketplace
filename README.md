@@ -28,6 +28,14 @@ A Claude Code plugin marketplace.
 |--------|-------------|
 | [rock-mcp](https://github.com/sethwebster/rock-mcp) | Documentation crawler — crawl any docs URL and search it instantly |
 
+## Agents
+
+Custom Claude Code subagents. Copy a `.md` file into `~/.claude/agents/` to install.
+
+| Agent | Description |
+|-------|-------------|
+| [ziggy](./agents/ziggy.md) | Electrobun expert — BrowserWindow/BrowserView, typed RPC, webview tags, build config, distribution, updates, code signing, and cross-platform desktop app development |
+
 ## Add a plugin
 
 Open a PR or issue.
