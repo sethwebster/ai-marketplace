@@ -1,0 +1,12 @@
+{
+  "name": "spec-print",
+  "description": "Build software from a printspec — a deterministic agent-focused spec that produces equivalent software wherever 'printed'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Seth Webster",
+    "email": "seth@sethwebster.com"
+  },
+  "homepage": "https://github.com/sethwebster/ai-marketplace",
+  "license": "MIT",
+  "keywords": ["spec", "printspec", "codegen", "deterministic", "build"]
+}

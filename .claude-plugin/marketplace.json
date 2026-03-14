@@ -6,6 +6,17 @@
   },
   "plugins": [
     {
+      "name": "spec-print",
+      "source": "./plugins/spec-print",
+      "description": "Build software from a printspec — a deterministic agent-focused spec that produces equivalent software wherever 'printed'.",
+      "author": {
+        "name": "Seth Webster"
+      },
+      "homepage": "https://github.com/sethwebster/ai-marketplace",
+      "license": "MIT",
+      "keywords": ["spec", "printspec", "codegen", "deterministic", "build"]
+    },
+    {
       "name": "rock-mcp",
       "source": {
         "source": "github",
